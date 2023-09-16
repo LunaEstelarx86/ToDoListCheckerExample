@@ -1,0 +1,29 @@
+Diseño
+
+INDICE:
+1 Características
+2 Formato de Linea TODO
+
+
+=======================================
+1 Características
+
+* Pestañas de proyectos
+* Pestañas de proyecto
+* Panel de General UNDONE
+
+
+
+
+=======================================
+2 Formato de Linea TODO
+
+
+<ToDo type="checkitem" >Entidad a hacer</ToDo>
+
+
+=======================================
+
+
+
+
